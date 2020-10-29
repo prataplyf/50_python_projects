@@ -46,9 +46,9 @@ def start_download(link):
     time.sleep(1)
     # Download video
     for i in tqdm(range(100), desc="Downloading...", ascii=True, ncols=100):
-        i += 1
         time.sleep(0.03)
-    # video_type.download()
+    video_type = yt.streams.filter(progressive=True, file_extension='mp4').first()
+    video_type.download()
     print("Done")
     
 
