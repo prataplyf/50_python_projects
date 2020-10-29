@@ -4,9 +4,9 @@ It is a Weekly Coding Problem that’ll help us learn to boost logical thinking 
 
 ### Python Top 50 Projects:
 ### Week First
-  1: Tic Tac Toe
-  2: Dice Rolling Simulator
-  3: Guess the Number
+  - 1: Tic Tac Toe
+  - 2: Dice Rolling Simulator
+  - 3: Guess the Number
   4: Hangman
   5: Binary Search Algorithm
   6: Youtube Video Downloader
@@ -65,10 +65,10 @@ It is a Weekly Coding Problem that’ll help us learn to boost logical thinking 
                    
 # DATA SCIENCE PROJECTS
 ## Beginner Level:     
-  Iris Data
-  Loan Prediction Data
-  BIgmart Sales Data
-  Walmart Sales Prediction
+  - Iris Data
+  - Loan Prediction Data
+  - Bigmart Sales Data
+  - Walmart Sales Prediction
   Boston Housing Data
   Time Series Analysis Data
   Wine Quality Data
