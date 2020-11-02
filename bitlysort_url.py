@@ -8,5 +8,5 @@ get_url = input("Enter url: ")
 url.append(get_url)
 
 # sort using bitly
-sort_url = shortener.shorten_urls_to_dict(url, domain="bit.ly")
+sort_url = shortener.shorten_urls_to_dict(url)
 print("sort url: ", sort_url)
